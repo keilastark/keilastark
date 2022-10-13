@@ -1,0 +1,3 @@
+- 👋 Hi, I’m a PhD candidate in the Biodiversity Research Centre and Department of Zoology at the University of British Columbia, Vancouver.
+- 👀 I’m interested in using Metabolic Scaling Theory to understand biodiversity patterns. 
+- 📫 I can be reached at keilastark@zoology.ubc.ca
